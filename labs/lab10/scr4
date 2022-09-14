@@ -1,0 +1,5 @@
+echo "Dir: "
+read dir
+echo "Format: "
+read type
+find ${dir} -name "*.${type}" -type f | wc -l

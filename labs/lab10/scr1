@@ -1,0 +1,2 @@
+zip scr1.zip scr1
+mv scr1.zip /home/argayjsina/backup
